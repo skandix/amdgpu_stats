@@ -26,7 +26,7 @@ def get_stats():
 		Vram Usage:       {vram_usage(gpu)}
 		Power Usage:   	  {power_usage(gpu)}
 		Temprature:    	  {temprature(gpu)}
-		Load:	 	   	  {load(gpu)}
+		Load:	 	  {load(gpu)}
 		Shader Clock:  	  {shader_core_clock(gpu)}
 		Max Shader Clock: {max_shader_clock(gpu)}
 		Memory Clock:  	  {memory_clock(gpu)}
